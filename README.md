@@ -1,0 +1,2 @@
+# Get_Jasrac_code_page
+Jasracの作品コードを一括で検索して、表示できるツールを作りたい
